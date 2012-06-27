@@ -1,0 +1,2 @@
+Wordpress Plugin for Humand and Machine Translation using [MyMemory](http://mymemory.translated.net/)
+=====================================================================================================
